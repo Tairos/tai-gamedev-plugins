@@ -1,0 +1,7 @@
+{
+  "name": "com.carlos.unity-agents-template",
+  "version": "0.1.0",
+  "displayName": "Unity Agents Template (Test)",
+  "description": "A documentation-only dummy package for testing private Git installation through Unity Package Catalog.",
+  "unity": "6000.6"
+}
